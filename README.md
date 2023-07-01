@@ -10,7 +10,8 @@ WORKING PRINCIPLE
 This website is based on linking different HTML pages and making it attractive
 with the help of advanced CSS.I use many different CSS tools.
 
-COMPONENTS REQUIRED/TECHNOLOGY
+COMPONENTS REQUIRED/TECHNOLOGY-
+   
    HTML,CSS,JAVASCRIPT
 
 
